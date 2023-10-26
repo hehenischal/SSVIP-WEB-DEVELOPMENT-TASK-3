@@ -31,7 +31,9 @@ input, select, button {
     border: 1px solid #ccc;
     border-radius: 3px;
 }
-
+input {
+    width: 95%;
+}
 .output-container {
     margin: 20px 0;
 }
